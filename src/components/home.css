@@ -1,0 +1,39 @@
+.Home {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .Header {
+    margin-bottom: 50px;
+  }
+  
+  .Header h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .Features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .Feature {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .Feature h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .Feature p {
+    font-size: 16px;
+    color: #666;
+  }
+  
